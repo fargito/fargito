@@ -6,7 +6,10 @@
 
 ![François Farge's github stats](https://github-readme-stats.vercel.app/api?username=fargito&count_private=true&show_icons=true&hide_border=true&custom_title=Github%20Stats)
 
+## 🚀 Projects
 
+- [fargito/serverless-contracts](https://github.com/fargito/serverless-contracts): a set of tools for building and deploying type-safe Serverless Microservices
+- [fargito/serverless-monorepo-microservices-template](https://github.com/fargito/serverless-monorepo-microservices-template): A template aimed to define an opinionated clean Serverless monorepo microservices architecture
 
 <!--
 **fargito/fargito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
