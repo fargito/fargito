@@ -9,7 +9,7 @@
 ## 🚀 Projects
 
 - [fargito/serverless-contracts](https://github.com/fargito/serverless-contracts): a set of tools for building and deploying type-safe Serverless Microservices
-- [fargito/serverless-monorepo-microservices-template](https://github.com/fargito/serverless-monorepo-microservices-template): A template aimed to define an opinionated clean Serverless monorepo microservices architecture
+- [fargito/serverless-monorepo-microservices-template](https://github.com/fargito/serverless-monorepo-microservices-template): a template aimed to define an opinionated clean Serverless monorepo microservices architecture
 
 <!--
 **fargito/fargito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
