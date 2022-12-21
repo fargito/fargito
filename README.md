@@ -9,4 +9,4 @@
 ## 🚀 Projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=swarmion&repo=swarmion)](https://github.com/swarmion/swarmion)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=swarmion&repo=template)](https://github.com/swarmion/template)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fargito&repo=event-scout)](https://github.com/fargito/event-scout)
