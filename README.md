@@ -1,11 +1,9 @@
 # François Farge
 
-![Serverless](https://img.shields.io/badge/Serverless-%23FFFFFF?logo=serverless&logoColor=red&style=for-the-badge)
-![Typescript](https://img.shields.io/badge/typescript%20-%23FFFFFF.svg?&style=for-the-badge&logo=typescript&logoColor=blue)
-![AWS](https://img.shields.io/badge/AWS-%23FFFFFF?logo=amazon-aws&logoColor=orange&style=for-the-badge)
-
 [![Twitter](https://img.shields.io/twitter/follow/farge_francois.svg?style=social&label=@farge_francois)](https://twitter.com/farge_francois)
 [![GitHub followers](https://img.shields.io/github/followers/fargito?style=social)](https://github.com/fargito)
+
+Hi, I'm François! I'm passionate about code quality, Serverless and Typescript.
 
 ![François Farge's github stats](https://github-readme-stats.vercel.app/api?username=fargito&count_private=true&show_icons=true&hide_border=true&custom_title=Github%20Stats)
 
