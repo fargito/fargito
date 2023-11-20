@@ -3,7 +3,7 @@
 [![Twitter](https://img.shields.io/twitter/follow/farge_francois.svg?style=social&label=@farge_francois)](https://twitter.com/farge_francois)
 [![GitHub followers](https://img.shields.io/github/followers/fargito?style=social)](https://github.com/fargito)
 
-Hi, I'm François! I'm passionate about code quality, Serverless and Typescript.
+Hi, I'm François! I'm passionate about code quality, Serverless, Typescript and Rust.
 
 ![François Farge's github stats](https://github-readme-stats.vercel.app/api?username=fargito&count_private=true&show_icons=true&hide_border=true&custom_title=Github%20Stats)
 
